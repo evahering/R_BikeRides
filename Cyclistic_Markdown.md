@@ -1,11 +1,11 @@
-Cyclist Case Study
+Cyclist Case Study (Google Data Analytics Professional)
 ================
 Eva Hering
 2022-07-20
 
 ## Scenario
 
-![\~](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;~ "~")
+
 You are a junior data analyst working in the marketing analyst team at
 Cyclistic, a bike-share company in Chicago. The director of marketing
 believes the company’s future success depends on maximizing the number
@@ -15,28 +15,27 @@ these insights, your team will design a new marketing strategy to
 convert casual riders into annual members. But first, Cyclistic
 executives must approve your recommendations, so they must be backed up
 with compelling data insights and professional data visualizations.
-![\~](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;~ "~")
-\## Questions
-![\~](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;~ "~")
+
+
+## Questions
+
 Since the director of marketing wants to maximise the number of annual
 memberships I had to find out how many trips have been done by members
 and casual riders.
 
-![\~](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;~ "~")
 
-![](plot_member_type.png)
+![plot_member_type](https://user-images.githubusercontent.com/72686135/179959031-fd974c21-0608-4e4f-8a6f-857526e1fbbe.png)
 
-![\~](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;~ "~")
+
 
 Now that we know that the casual riders use the bikes more than the
 members, it would be useful to know when the bikes get used the most to
 target the marketing strategy. I calculated the rides per day of the
 week.
 
-![\~](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;~ "~")
 
-![](plot_popular_day.png)
-![\~](https://latex.codecogs.com/png.image?%5Cdpi%7B110%7D&space;%5Cbg_white&space;~ "~")
+![plot_popular_day](https://user-images.githubusercontent.com/72686135/179959082-2395a9dd-d262-4072-8143-07e88e058c0d.png)
+
 
 Friday and Saturday are clearly the most popular days of the week
 followed by Thursday.
